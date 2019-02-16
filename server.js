@@ -1,4 +1,8 @@
+// Node modules
 const express = require('express');
+const mongo = require('mongodb');
+
+// Variables
 const app = express();
 const port = 3000;
 
